@@ -1,0 +1,187 @@
+﻿@{
+    Layout = null;
+}
+<!--Make sure to remove all design comments before production-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta charset="utf-8">
+    <title>Derek Pauley | @ViewBag.Title</title>
+    <meta content="Bootply" name="generator">
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="~/Content/styles.css" rel="stylesheet" />
+    
+    <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  
+</head>
+<body>
+    <!-- Begin Navbar -->
+    <div class="navbar navbar-static">
+        <div class="container">
+            <a class="navbar-toggle" data-target=".nav-collapse" data-toggle="collapse"></a>
+            <div class="nav-collapse collase">
+                <ul class="nav navbar-nav">
+                    <li>
+                        @Html.ActionLink("Home", "Index")
+                    </li>
+                    <li>
+                        @Html.ActionLink("About Me", "About")
+                    </li>
+                    <li>
+                        @Html.ActionLink("Contact Me","Contact")
+                    </li>
+                    <li>
+                        @Html.ActionLink("Projects","Projects")
+                    </li>
+                    <li>
+                        @Html.ActionLink("C#","CSharp")
+                    </li>
+                    <li>
+                        @Html.ActionLink("ASP.NET","AspDotNet")
+                    </li>
+                    <li>
+                       @Html.ActionLink("JS","Javascript")
+                    </li>
+                    
+
+                </ul>
+
+
+
+                <ul class="nav pull-right navbar-nav">
+                    <li class="dropdown">
+                        <ul class="dropdown-menu" style="padding:12px;"></ul>
+                    </li>
+                    <li>
+                        @Html.ActionLink("Let Me Build Something For You","Build")
+                        
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div><!-- /.navbar -->
+    <header class="masthead">
+        <div class="container">
+            <div class="row">
+                <div class="col col-sm-6">
+                    <h1>
+                        <a href="#" title="xxx">
+                            Derek Pauley<br>
+                            <small>Junior Developer</small><br /><a href="http://www.twitter.com/dptech23" target="_blank"><img src="http://www.buttonshut.com/Twitter-Buttons/Twitter-Buttons-5-74-.png" title="Follow Me!" alt="Twitter" width="61px" border="0" /> <iframe src="http://ghbtns.com/github-btn.html?user=dptechdev&type=follow&size=large" height="30" width="240" frameborder="0" scrolling="0" style="width:240px; height: 30px;" allowtransparency="true"></iframe>
+
+
+                    </h1>
+                </div>
+                <div class="col col-sm-6"></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col col-sm-12">
+                    <div class="panel">
+                        <div class="panel-body">
+                            <div class="well pull-right">
+                                <a href="http://imgur.com/OMF4Rev"><img src="http://i.imgur.com/OMF4Rev.jpg" title="Me" /></a>
+                            </div>
+                            <div class="page-header">
+                                <p class="text-info lead">
+                                    <strong>
+                                       Thanks for checking out my page.<br /><br />A lot of it is still a work in progress.<br /><br />But I'm glad you stopped by anyway :)
+                                    </strong><br />
+                                    </p>
+                              
+
+                                   
+                                    <!--</p></div><br /><p class="lead">Welcome to DerekPauley.com<br />soon it wont say <i>azurewebsites.net</i><br />This is my early prototype.
+                                    </p>-->
+                            </div>
+                        </div>
+
+                       
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header><!-- Begin Body -->
+    <div class="container">
+        <div class="row">
+            <div class="col col-sm-3">
+                <div id="sidebar">
+                    <ul class="nav nav-stacked">
+                        <li>
+
+                            
+                            @*<h3 class="highlight" style="font-style: italic">
+                                Lets get social!
+                            </h3>
+                        </li>
+                        <li><a href="http://www.fromtechtodev.blogspot.com" title="Read and Share!">Blog</a></li>
+                        <li>
+                            
+                            <a href="http://www.twitter.com/dptech23" title="Follow Me!">Twitter</a>
+                        </li>
+                        <li>
+                            
+                            <a href="#" title="Coming Soon!">GitHub</a> <small>Coming Soon</small>
+                                
+                        </li>*@
+                        
+                    </ul>
+                    <div class="accordion" id="accordion2">
+                        <div class="accordion-group">
+                            <br>
+                            <br>
+                            <br>
+                           @*<div class="accordion-heading">
+                                <h3 class="highlight">Lets get social</h3>
+                                <ul class="nav nav-stacked">
+                                    <li>
+                                        <a href="https://www.twitter.com/dptech23">Twitter</a>
+                                    </li>
+                                    <li><a href="#">Facebook</a></li>
+                                    <li><a href="#">Google+</a></li>
+                                    <li>Github - Up and coming.</li>
+                                </ul>
+                            </div>*@
+                        </div>
+                        <div class="accordion-group">
+                            <div class="accordion-heading">
+
+                            </div>
+                            <div id="collapseTwo" class="accordion-body collapse"> 
+                                <div class="accordion-inner">
+                                   Lorem
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col col-sm-9">
+                <div class="panel">
+                    <!--Begin RenderBody--> 
+                    @RenderBody()
+                </div>
+                <!--End RednerBody--> <!-- <-- <-- <-- Remove RenderBody tags at production-->
+
+                <hr>
+                <hr>
+            </div>
+        </div>
+    </div>
+    <!-- script references -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/scripts.js"></script>
+   
+</body>
+</html>
+
