@@ -50,3 +50,29 @@ F:\VS 2013 projects\DerekPauley\DerekPauley\bin\System.Web.Mvc.xml
 F:\VS 2013 projects\DerekPauley\DerekPauley\obj\Debug\DerekPauley.csprojResolveAssemblyReference.cache
 F:\VS 2013 projects\DerekPauley\DerekPauley\obj\Debug\DerekPauley.dll
 F:\VS 2013 projects\DerekPauley\DerekPauley\obj\Debug\DerekPauley.pdb
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\DerekPauley.dll.config
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\DerekPauley.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\DerekPauley.pdb
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\Antlr3.Runtime.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\Newtonsoft.Json.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Helpers.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Mvc.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Optimization.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Razor.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Webpages.Deployment.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Webpages.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Webpages.Razor.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\WebActivatorEx.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\WebGrease.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\Antlr3.Runtime.pdb
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\Newtonsoft.Json.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Optimization.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Razor.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Webpages.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Webpages.Deployment.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Webpages.Razor.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Helpers.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\bin\System.Web.Mvc.xml
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\obj\Debug\DerekPauley.csprojResolveAssemblyReference.cache
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\obj\Debug\DerekPauley.dll
+C:\Users\D-Roc\Documents\GitHub\My Website\My-Web-Site\DerekPauley\obj\Debug\DerekPauley.pdb
