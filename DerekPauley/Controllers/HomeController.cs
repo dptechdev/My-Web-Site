@@ -26,7 +26,10 @@ namespace DerekPauley.Controllers
             return View();
         }
 
-     
+     public ActionResult Build()
+        {
+            return View();
+        }
         
 
        
