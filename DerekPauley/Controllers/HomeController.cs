@@ -26,30 +26,7 @@ namespace DerekPauley.Controllers
             return View();
         }
 
-        public ActionResult Projects()
-        {
-            return View();
-        }
-
-        public ActionResult Csharp()
-        {
-            return View();
-        }
-
-        public ActionResult AspDotNet()
-        {
-            return View();
-        }
-
-        public ActionResult Javascript()
-        {
-            return View();
-        }
-
-        public ActionResult Build()
-        {
-            return View();
-        }
+     
         
 
        
